@@ -4390,7 +4390,7 @@ metafile = true
 
 [[files]]
 file = "mods/dictatormod-0.18.0-fabric-mc1.20.1.jar"
-hash = "8a6060cb60ea3a6f5024b99f5870a8b1918bb26c840debb676faba3c53795216"
+hash = "1acf4cf572d6322cdfe02583138a6764556297dbcecfabfbbb831d9c7bf2fafe"
 
 [[files]]
 file = "mods/do-api.pw.toml"
