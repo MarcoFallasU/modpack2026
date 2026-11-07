@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
-metafile = true
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "1ba862a28dc0478ca94a0f2bf8689f4b6294ed2886dee3fdf9a10f4029110fa5"
 
@@ -3834,8 +3829,13 @@ file = "config/zoomify.json"
 hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
-file = "farmers-delight-cutting-compat.pw.toml"
+file = "datapacks/farmers-delight-cutting-compat.pw.toml"
 hash = "fbb73d79d822338366a6408327a56452294ca9296050b7c152d08d05918c64e5"
+metafile = true
+
+[[files]]
+file = "datapacks/supplementaries-compat.pw.toml"
+hash = "b61ae0df078cdd9961fd91013c707373ad84dd30df1bf9386626ae1b6c553260"
 metafile = true
 
 [[files]]
@@ -3933,11 +3933,6 @@ hash = "d04c91c0a4f86ef4fc72387110abe617a66769fe27e8606ac541fb73d2de13c9"
 [[files]]
 file = "kubejs/startup_scripts/shiitake_mushroom_soup.js"
 hash = "46f7c9b0eb9a4fde4461184ad9b649e25998178cc396e66d11e5be0b1ffd4626"
-
-[[files]]
-file = "makeup-ultra-fast-shader.pw.toml"
-hash = "e569821e398ed298d85515bd362828e622185e25abbc7d3faa3ebef0f81359c7"
-metafile = true
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -5819,16 +5814,6 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "7e608850c8a923fada4ea9b69f200e19d71d08a6ab8b7f1abf27d77e3731b3f2"
-metafile = true
-
-[[files]]
-file = "nostalgia-shader.pw.toml"
-hash = "d233ca09a78872f9508907bf71551b0067540785121e5d5b5f24c477ebe06c31"
-metafile = true
-
-[[files]]
-file = "potato-shaders.pw.toml"
-hash = "7b7529037bc035bc88b5aa5e815d4aad1c2ed4abf8365621ceb224a966bc198f"
 metafile = true
 
 [[files]]
@@ -14287,15 +14272,30 @@ file = "shaderpacks/PotatoShaders_v1.0d.zip.txt"
 hash = "fd30508ea10502338959d0d8a5de1f7414358306c09ea9251272fe5a3a2e6a2b"
 
 [[files]]
-file = "shaderpacks/superDuperVanilla.zip.txt"
-hash = "b28c5f96c74a4c2fb6cde670e9cadd0493216c0eb1988ee08ae9789e655d5e60"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
+metafile = true
 
 [[files]]
-file = "super-duper-vanilla-shaders.pw.toml"
+file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
+hash = "e569821e398ed298d85515bd362828e622185e25abbc7d3faa3ebef0f81359c7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/nostalgia-shader.pw.toml"
+hash = "45c38ced99ece596768dff923534dc9acfe5f4493ed9549b047024a9707c186c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/potato-shaders.pw.toml"
+hash = "ca4193687894d794a5a6f18b554f9fbe44d9983d8e9328218281eab8d004005d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla-shaders.pw.toml"
 hash = "1a60a7729a18776968f35a1f0c5c9c56df56ecf1308cccec20fd28e544f28eba"
 metafile = true
 
 [[files]]
-file = "supplementaries-compat.pw.toml"
-hash = "b61ae0df078cdd9961fd91013c707373ad84dd30df1bf9386626ae1b6c553260"
-metafile = true
+file = "shaderpacks/superDuperVanilla.zip.txt"
+hash = "b28c5f96c74a4c2fb6cde670e9cadd0493216c0eb1988ee08ae9789e655d5e60"
