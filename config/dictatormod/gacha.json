@@ -1,0 +1,54 @@
+{
+  "price": 500,
+  "tenPullDiscountPercent": 10,
+  "epicPity": 0,
+  "legendaryPity": 0,
+  "announceLegendary": true,
+  "weights": {
+    "common": 7400,
+    "rare": 2000,
+    "epic": 500,
+    "legendary": 100
+  },
+  "pools": {
+    "common": [
+      "minecraft:bread*8",
+      "minecraft:cooked_beef*8",
+      "minecraft:torch*32",
+      "minecraft:coal*16",
+      "minecraft:iron_ingot*8",
+      "minecraft:oak_log*32",
+      "minecraft:arrow*32",
+      "minecraft:cookie*16"
+    ],
+    "rare": [
+      "minecraft:gold_ingot*8",
+      "minecraft:diamond*1",
+      "minecraft:emerald*6",
+      "minecraft:experience_bottle*8",
+      "minecraft:golden_apple*1",
+      "minecraft:ender_pearl*4",
+      "minecraft:lapis_lazuli*16",
+      "minecraft:redstone*32"
+    ],
+    "epic": [
+      "minecraft:diamond*4",
+      "minecraft:enchanted_golden_apple*1",
+      "minecraft:netherite_scrap*2",
+      "minecraft:experience_bottle*32",
+      "minecraft:totem_of_undying*1",
+      "minecraft:golden_carrot*16",
+      "minecraft:ender_chest*1"
+    ],
+    "legendary": [
+      "minecraft:netherite_ingot*1",
+      "minecraft:elytra*1",
+      "minecraft:nether_star*1",
+      "minecraft:beacon*1",
+      "minecraft:trident*1",
+      "minecraft:heart_of_the_sea*1",
+      "minecraft:enchanted_golden_apple*4",
+      "minecraft:netherite_ingot*2"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "radius": {
+    "coal": 8,
+    "copper": 10,
+    "iron": 14,
+    "gold": 18,
+    "redstone": 23,
+    "lapis": 28,
+    "diamond": 35,
+    "emerald": 44,
+    "netherite": 58
+  },
+  "maxClaimsPerPlayer": 6,
+  "maxTotalArea": 30000,
+  "redMoonBypassesClaims": true
+}

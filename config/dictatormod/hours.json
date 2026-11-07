@@ -1,0 +1,13 @@
+{
+  "enabled": false,
+  "graceMinutes": 60,
+  "minLimitHours": 2.0,
+  "windowDays": 14,
+  "halfLifeDays": 4.0,
+  "nightStartHour": 0,
+  "nightEndHour": 6,
+  "spawnIntervalSeconds": 3,
+  "waveSize": 12,
+  "maxMobs": 100,
+  "ringRadius": 14
+}

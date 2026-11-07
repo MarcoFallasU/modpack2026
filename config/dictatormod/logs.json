@@ -1,0 +1,9 @@
+{
+  "blocks": true,
+  "deaths": true,
+  "interactions": true,
+  "zones": true,
+  "retentionDaysBlocks": 14,
+  "retentionDays": 90,
+  "pageSize": 100
+}

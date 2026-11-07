@@ -1,0 +1,8 @@
+{
+  "warmupSeconds": 0,
+  "cooldownSeconds": 30,
+  "maxHomes": 3,
+  "requestTimeoutSeconds": 60,
+  "blockDuringRedMoon": true,
+  "cancelOnMove": true
+}

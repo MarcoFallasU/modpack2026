@@ -1,0 +1,13 @@
+name = "Homestead - A Cozy Survival Experience"
+author = "Toekimi"
+version = "2.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1938aee630f074ed8ba28157d72dc4e0c8716ce838435f5492ab354eaf49cc8d"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.20.1"

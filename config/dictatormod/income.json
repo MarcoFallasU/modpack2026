@@ -1,0 +1,8 @@
+{
+  "advancementTask": 100,
+  "advancementGoal": 250,
+  "advancementChallenge": 1000,
+  "playtimePerHour": 300,
+  "playtimeMaxPerDay": 2000,
+  "playtimeOnlyUnderLimit": true
+}

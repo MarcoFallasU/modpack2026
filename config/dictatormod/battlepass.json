@@ -1,0 +1,207 @@
+{
+  "levels": 30,
+  "xpBase": 100,
+  "xpIncrement": 25,
+  "seasonDays": 30,
+  "xpPerQuest": 60,
+  "xpAdvancementTask": 15,
+  "xpAdvancementGoal": 30,
+  "xpAdvancementChallenge": 100,
+  "xpPlaytimePerHour": 60,
+  "xpPlaytimeMaxPerDay": 240,
+  "playtimeOnlyUnderLimit": true,
+  "xpPerHostileKill": 2,
+  "xpPerOreMined": 3,
+  "xpActionsMaxPerDay": 300,
+  "rewards": [
+    {
+      "items": [],
+      "money": 120,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:gold_ingot*8"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [],
+      "money": 160,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:experience_bottle*8"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:iron_ingot*8"
+      ],
+      "money": 800,
+      "rolls": 1
+    },
+    {
+      "items": [
+        "minecraft:ender_pearl*4"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [],
+      "money": 240,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:bread*16"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [],
+      "money": 280,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:diamond*4",
+        "minecraft:experience_bottle*16"
+      ],
+      "money": 1500,
+      "rolls": 2
+    },
+    {
+      "items": [],
+      "money": 320,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:experience_bottle*8"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [],
+      "money": 360,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:ender_pearl*4"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:emerald*4"
+      ],
+      "money": 800,
+      "rolls": 1
+    },
+    {
+      "items": [
+        "minecraft:bread*16"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [],
+      "money": 440,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:gold_ingot*8"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [],
+      "money": 480,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:diamond*4",
+        "minecraft:experience_bottle*16"
+      ],
+      "money": 1500,
+      "rolls": 2
+    },
+    {
+      "items": [],
+      "money": 520,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:ender_pearl*4"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [],
+      "money": 560,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:bread*16"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:diamond*2"
+      ],
+      "money": 800,
+      "rolls": 1
+    },
+    {
+      "items": [
+        "minecraft:gold_ingot*8"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [],
+      "money": 640,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:experience_bottle*8"
+      ],
+      "money": 0,
+      "rolls": 0
+    },
+    {
+      "items": [],
+      "money": 680,
+      "rolls": 0
+    },
+    {
+      "items": [
+        "minecraft:netherite_ingot*2",
+        "minecraft:diamond*8"
+      ],
+      "money": 5000,
+      "rolls": 5
+    }
+  ]
+}
